@@ -68,7 +68,6 @@ Enter the Spotify link for a track or album: https://open.spotify.com/album/6Qup
 Downloading album: Hogtied Revisited by The White Buffalo
 Downloaded: Story #1 by The White Buffalo
 Downloaded: Today's tomorrow by The White Buffalo
-...
 ```
 
 ## Donation
