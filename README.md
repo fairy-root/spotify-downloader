@@ -66,12 +66,25 @@ This is a Python script to download single tracks and full albums from Spotify. 
 $ python spotify.py
 Enter the Spotify link for a track or album: https://open.spotify.com/album/6QupeOoSn316Iwv9D3tJz7?si=IpEwJ0XGRuelCjfAl1qKew
 Downloading album: Hogtied Revisited by The White Buffalo
-Downloaded: Love Song #1 by The White Buffalo
-Downloaded: BB Guns and Dirt Bikes by The White Buffalo
+Downloaded: Story #1 by The White Buffalo
+Downloaded: Today's tomorrow by The White Buffalo
 ...
 ```
+
+## Donation
+
+Your support is appreciated:
+
+- USDt (TRC20): `TGCVbSSJbwL5nyXqMuKY839LJ5q5ygn2uS`
+- BTC: `13GS1ixn2uQAmFQkte6qA5p1MQtMXre6MT`
+- ETH (ERC20): `0xdbc7a7dafbb333773a5866ccf7a74da15ee654cc`
+- LTC: `Ldb6SDxUMEdYQQfRhSA3zi4dCUtfUdsPou`
+
+
+## Contributing
+
+If you have suggestions or improvements, please fork the repository and create a pull request or open an issue.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
